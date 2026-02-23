@@ -14,7 +14,7 @@ With this project, you can see how the planets move around the Sun and get a cle
 <br>
 
 <hr>
-## **🛠️Technologies Used:**
+## **Technologies Used:**
 
 * **HTML5** – For structuring the content and layout of the Solar System project. 🧱<br>
 * **CSS3** – For styling planets, orbits, and other visual elements. 🎨<br>
