@@ -5,7 +5,7 @@ With this project, you can see how the planets move around the Sun and get a cle
 <br>
 
 <hr>
-## Key Features: 
+**## Key Features:**
 
 * **Realistic Planets:** Explore the solar system with beautifully designed planet models, showing accurate sizes, colors, and textures.<br>
 * **Smooth Planet Orbits:** Watch planets move naturally around the Sun, following their real-life paths and speeds.<br>
@@ -14,7 +14,7 @@ With this project, you can see how the planets move around the Sun and get a cle
 <br>
 
 <hr>
-## 🛠️Technologies Used:
+**## 🛠️Technologies Used:**
 
 * **HTML5** – For structuring the content and layout of the Solar System project. 🧱<br>
 * **CSS3** – For styling planets, orbits, and other visual elements. 🎨<br>
