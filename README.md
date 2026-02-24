@@ -21,5 +21,5 @@ With this project, you can see how the planets move around the Sun and get a cle
 * **JavaScript** – For interactive features, animations, and orbital calculations. 🚀🌟<br>
 
 <hr>
-## **ScreenShots**
+## <u><b>ScreenShots</b></u>
 <img width="1874" height="899" alt="Screenshot 2026-02-23 191139" src="https://github.com/user-attachments/assets/8bc53027-cfe0-42fc-8963-d2d18e70f2ae" />
