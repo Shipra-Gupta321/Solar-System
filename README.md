@@ -5,6 +5,9 @@ This project is a fun and interactive web-based Solar System simulator. It shows
 With this project, you can see how the planets move around the Sun and get a clear idea of our cosmic neighborhood. Perfect for learning, exploring, or just enjoying a mini space adventure! 🌟
 <br>
 
+**Live Demo:**
+
+
 <hr>
 
 ## **✨ Key Features:**
